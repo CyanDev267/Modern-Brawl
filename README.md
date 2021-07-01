@@ -31,26 +31,6 @@ To Run Server Download Apk And Files [Here](https://mega.nz/file/UK4DTSia#gghLAf
 
 * Github [@PhoenixFire6879](https://github.com/PhoenixFire6879)
 
-👤 **Crazor**
-
-* Github [@CrazorTheCat](https://github.com/CrazorTheCat)
-
-👤 **Vitalik**
-
-* Github [@VitalikObject](https://github.com/VitalikObject)
-
-👤 **Rostik**
-
-* Github [@RostikDevv](https://github.com/RostikDevv) 
-
-👤 **Vorono4ka**
- 
- * Github [@Vorono4ka](https://github.com/Vorono4ka)
-
-👤 **Scdocs**
- 
- * Github [@Scdocs](https://github.com/RostikDevv/scdocs)
-
 👤 **Isaac Modder**
 
  * Github [@CyanDev267](https://github.com/CyanDev267/)
