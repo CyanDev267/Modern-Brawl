@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to Modern-Brawl 👋</h1>
 
+Brawl Stars v28 Open Source Server!
+
+![ScreenShot](https://cdn.discordapp.com/attachments/846094828230934539/859996994315354152/v28.png) 
+
 ## Run Server On Android
 
 - Download The Files and Apk
@@ -13,7 +17,7 @@
 
 ## Files
 
-To Run Server Download Apk And Files In Any Branch
+To Run Server Download Apk And Files [Here](https://mega.nz/file/9L5zGAYJ#Zb8dlj7dDfKNA1kO6b7O_A6GxVq7Al4r3Y05k2xnfMU)
 
 ## Need help?
 
